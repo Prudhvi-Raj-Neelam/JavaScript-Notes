@@ -1,5 +1,19 @@
-let js = "amazing";
-if(js === "amazing") alert("Hello World!");
+// es5 //
 
-20 + 12 + 15 - 7;
-console.log(20 + 12 + 15 - 7);
+var a = 10;
+var b = 20;
+
+a
+10
+b
+20
+a + b
+30
+a - b
+-10
+a * b
+200
+a / b
+0.5
+a % b
+10
